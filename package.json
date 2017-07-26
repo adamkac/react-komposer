@@ -1,6 +1,6 @@
 {
   "name": "react-komposer",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Generic way to compose data containers for React.",
   "repository": {
     "type": "git",
@@ -18,8 +18,8 @@
     "publish-storybook": "bash .scripts/publish_storybook.sh"
   },
   "devDependencies": {
-    "react": "^15.3.2",
-    "react-dom": "^15.3.2",
+    "react": "16.0.0-alpha.12",
+    "react-dom": "16.0.0-alpha.12",
     "babel-polyfill": "^6.13.0",
     "babel-preset-react-app": "^0.2.1",
     "babel-cli": "^6.14.0",
